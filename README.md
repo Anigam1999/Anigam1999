@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at(in progress)) [https://anigam1999.github.io/cv/](https://anigam1999.github.io/cv/)
 
-- 💬 Ask me about **react, vue, nodejs**
+- 💬 Ask me about **react, nodejs**
 
 - 📫 How to reach me **abhisheknigam755@gmail.com**
 
