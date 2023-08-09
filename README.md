@@ -1,6 +1,6 @@
 ![logo](https://github.com/Anigam1999/Anigam1999/blob/main/peakpx.jpg)
 <h1 align="center">Hi 👋, I'm Abhishek Nigam</h1>
-<h3 align="center">An aspiring programmer and web developer</h3>
+<h3 align="center">A dedicated and aspiring software developer specializing in MERN (MongoDB, Express.js, React, Node.js) stack technologies, committed to crafting innovative and efficient solutions.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
