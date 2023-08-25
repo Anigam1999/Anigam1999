@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anigam1999&label=Profile%20views&color=0e75b6&style=flat" alt="anigam1999" /> </p>
 
-- 🔭 I’m currently working on **Sign Language Recognition**
+- 🌱 I’m currently learning **Data Structure And Algorithms**
 
-- 🌱 I’m currently learning **flask and django**
+- 🔭 I’m currently working on **Sign Language Recognition**
 
 - 👨‍💻 All of my projects are available at(in progress)) [https://anigam1999.github.io/cv/](https://anigam1999.github.io/cv/)
 
