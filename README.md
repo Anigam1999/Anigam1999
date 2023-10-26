@@ -24,9 +24,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-nigam-7a848b238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-nigam-7a848b238" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21213997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21213997" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@insightinaptitude1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@insightinaptitude1999" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/@insightinaptitude1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@insightinaptitude1999" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/@abhisheknigam755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhisheknigam755" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhisheknigam755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisheknigam755" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/abhisheknigam755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisheknigam755" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
