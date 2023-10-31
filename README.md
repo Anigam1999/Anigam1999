@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **Sign Language Recognition**
 
-- 👨‍💻 All of my projects are available at(in progress)) [https://anigam1999.github.io/cv/](https://anigam1999.github.io/cv/)
+<!-- - 👨‍💻 All of my projects are available at(in progress)) [https://anigam1999.github.io/cv/](https://anigam1999.github.io/cv/) -->
 
 - 💬 Ask me about **react, nodejs**
 
 - 📫 How to reach me **abhisheknigam755@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1guIPrlQNuVW28Rtc0W-WSHm6u8QFbU4F/view?usp=sharing](https://drive.google.com/file/d/1guIPrlQNuVW28Rtc0W-WSHm6u8QFbU4F/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pDQeI9Ng1OYBLdN3P-EQTD9YueoiUTKm/view?usp=sharing](https://drive.google.com/file/d/1pDQeI9Ng1OYBLdN3P-EQTD9YueoiUTKm/view?usp=sharing)
 
 - ⚡ Fun fact **I am high 😎**
 
