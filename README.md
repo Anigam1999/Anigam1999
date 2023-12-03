@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OUsK8aXMbVE9wQ5LwPz1pZWfht-Hm_0R/view?usp=sharing](https://drive.google.com/file/d/1OUsK8aXMbVE9wQ5LwPz1pZWfht-Hm_0R/view?usp=sharing)
 
-- ⚡ Fun fact **I am high 😎**
+<!-- - ⚡ Fun fact **I am high 😎** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
